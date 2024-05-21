@@ -3,10 +3,10 @@
 * The goal of the project is to predict Life Expectancy using various factors and to determine the relationship that exists between them.
 * Life expectancy: the number of years that an average person can be expected to live.
 * To build a MLR model, interpret the results , perform residual analysis and evaluate model performance.
-* Identify key factors affecting life expectancy. In practical problems, involving historical data, there is a large pool of possible independent variables which is often referred to as the variable selection problem.
+* Identify key factors affecting life expectancy.
+
 
 ##  Multiple Linear Regression
-
 
 * In practical problems, involving historical data, there is a large pool of possible independent variables which is often referred to as the variable selection problem.
 * Our aim is to build a model with high R-square and less √MSE
